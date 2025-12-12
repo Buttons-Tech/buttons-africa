@@ -54,7 +54,7 @@ function App() {
 
   // --- LOGIC: WhatsApp Checkout ---
   const handleCheckout = () => {
-    const phoneNumber = "2349011822117"; // BUTTONS NUMBER
+    const phoneNumber = "2349066596603"; // BUTTONS NUMBER
     const address = prompt("Please enter your House Number (e.g., Block 5, Flat 2):");
     
     if (!address) return;
